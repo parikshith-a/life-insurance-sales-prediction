@@ -1,3 +1,3 @@
-# Life Insurance Sales Prediction
+# Master branch title
 this project 
 learning git 
